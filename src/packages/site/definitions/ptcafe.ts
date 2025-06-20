@@ -18,6 +18,7 @@ export const siteMetadata: ISiteMetadata = {
   schema: "NexusPHP",
 
   urls: ["uggcf://cgpnsr.pyho/"],
+  tags: ["影视", "综合"],
 
   category: [
     {
